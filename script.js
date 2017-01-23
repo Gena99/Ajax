@@ -47,7 +47,7 @@ xhr.open('GET', 'test.xml', true);
 xhr.send();
 
 
-  //do work
+ 
 });
 
 /*
