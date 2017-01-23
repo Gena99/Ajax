@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <personnel>
-	<detail>
+	<personne>
 		<nom>Dupont</nom>
 		<prenom>Capucine</prenom>
 		<age>38</age>
@@ -8,9 +8,8 @@
 		<email>Mail</email>
 		<adresse>Saint Gau</adresse>
 		<tel>06 00 99 99 99</tel>
-	</detail>	
-
-	<detail>
+	</personne>	
+	<personne>
 		<nom>Duran</nom>
 		<prenom>Marguerite</prenom>
 		<age>40</age>
@@ -18,12 +17,5 @@
 		<email>Mail</email>
 		<adresse>Saint Gau</adresse>
 		<tel>06 00 99 88 88</tel>
-	</detail>	
-
-
-
-
-
-
-
+	</personne>	
 </personnel>
