@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<personnel>
+	<detail>
+		<nom>Dupont</nom>
+		<prenom>Capucine</prenom>
+		<age>38</age>
+		<fonction>Secrétaire</fonction>
+		<email>Mail</email>
+		<adresse>Saint Gau</adresse>
+		<tel>06 00 99 99 99</tel>
+	</detail>	
+
+	<detail>
+		<nom>Duran</nom>
+		<prenom>Marguerite</prenom>
+		<age>40</age>
+		<fonction>Comptable</fonction>
+		<email>Mail</email>
+		<adresse>Saint Gau</adresse>
+		<tel>06 00 99 88 88</tel>
+	</detail>	
+
+
+
+
+
+
+
+</personnel>
