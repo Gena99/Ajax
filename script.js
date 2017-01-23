@@ -24,7 +24,8 @@ xhr.onreadystatechange = function() {
 
 		var xml = xhr.responseXML;
 		console.log('reponseXml brute', xml);
-		var personnes = xml.getElementsByTagName("personne");
+		var personnes = xml.getElementsByTagName("personne");// retourne une instance d'une class html 
+		//collection du DOM : https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName
 		console.log('xml.getElementsByTagName("personne")', personnes);
 
 		for(var i = 0; i < personnes.length; i++) {
