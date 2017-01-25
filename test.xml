@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <personnel>
-	<personne>
+	<personne id="1">
 		<nom>Dupont</nom>
 		<prenom>Capucine</prenom>
 		<age>38</age>
 		<fonction>Secrétaire</fonction>
-		<email>Mail</email>
+		<email>blabla@blabla.fr</email>
 		<adresse>Saint Gau</adresse>
 		<tel>06 00 99 99 99</tel>
 	</personne>	
-	<personne>
+	<personne id="2">
 		<nom>Duran</nom>
 		<prenom>Marguerite</prenom>
 		<age>40</age>
